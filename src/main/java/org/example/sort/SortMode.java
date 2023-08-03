@@ -1,2 +1,7 @@
-package org.example.sort;public enum SortMode {
+package org.example.sort;
+
+public enum SortMode {
+
+    ASCENDING,
+    DESCENDING
 }

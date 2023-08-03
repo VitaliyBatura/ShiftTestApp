@@ -1,2 +1,7 @@
-package org.example.data;public enum DataType {
+package org.example.data;
+
+public enum DataType {
+
+    INTEGER,
+    STRING
 }
